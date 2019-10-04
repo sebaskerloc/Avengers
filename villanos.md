@@ -2,4 +2,3 @@
 
 * Peña
 * Fox
-* Capitán America
